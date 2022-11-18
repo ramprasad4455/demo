@@ -1,0 +1,45 @@
+{
+
+"validData":{"firstName":"sham" , "lastName":"Pawar" ,"email" : "sahaama@gmail.com" ,
+           "confirmEmail":"sahaama@gmail.com" , "username":"Shaasdm123432" , 
+           "password" : "Sham@2024" , "confirmPassword" : "Sham@2024" ,
+            "result" : "Almost done! To complete your nopCommerce registration, we just need to verify your email address. You have just been sent an email to confirm your email address. Open the email, and click the link to confirm your address."} ,
+           
+ "invalidData":{"firstName": "ram12" , "lastName":"Pawar23" ,"email" : "sh3" ,
+           "confirmEmail":"sh3", "username":"sham123 #" , 
+           "password" : "12@ as!" , "confirmPassword" : "12@ as!"} ,
+           
+"blankData":{"firstName":"" , "lastName":"" ,"email" : "" ,
+           "confirmEmail":"" , "username":"" , 
+           "password" : "" , "confirmPassword" : ""},
+           
+"doubleSpaces":{"firstName":"sham  " , "lastName":"Pawar  " ,"email" : "sham@gmail.com  " ,
+           "confirmEmail":"sham@gmail.com  " , "username":"Sham123432  " , 
+           "password" : "Sham@2024  " , "confirmPassword" : "Sham@2024  "} ,
+           
+"lessCharacters":{"firstName":"m" , "lastName":"r" ,"email" : "s" ,
+           "confirmEmail":"s" , "username":"S" , 
+           "password" : "z" , "confirmPassword" : "z"} ,
+           
+"moreCharacters":{"firstName":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxxxxxxxxxxxxxxxxxxshaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqaaaaaaaaaaaaaaaaaaaaaam" , 
+                 "lastName":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxPawqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzar" ,
+                 "email" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxszzzzzzzzzzzzzzxxxxxxxxccccccccccccccccccccdddddddddddddddddddddddddddddddddwwwwwwwwwwwwwwham@gmail.com" ,
+                 "confirmEmail":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxvvvvvvvvshawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwfffffffffffffffffffggggggggggggggggggggggggm@gmail.com" ,
+                  "username":"cccccccccccccccccccccccccccShaqqqqqqqqqqqqqqqqqqqqqqqqqqqwwwwwwwwwwwwwwwwwwwwwwwwwwwwwweeeeeeeeeeeerrrrrrtyu1111111234456788765m123432" , 
+                 "password" : "sssssssssssssssssssssShqwertyuioiuyfdsasdfghjkkjjjjjjjjjjjjjjjjjjjjjjjjjjjhhh222222222222223456666666rrrrrr5am@2eeeeeeeee024" , 
+                 "confirmPassword" : "fffffffffffffffffffffffffffffffffffffffffffffffffffffShaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwweeeeeeeeeeeeeeeeeeeeeeeeeeeedm@2024"
+                 },
+                 
+"combineNumberSymbol":{"firstName":"sha123%$#m" , "lastName":"Pa123@#!war" ,"email" : "s678!@#ham@gmail.com" ,
+           "confirmEmail":"sha@#124m@gmail.com" , "username":"Sham@$213&^%123432" , 
+           "password" : "Sha123!@#m@2024" , "confirmPassword" : "Sha346!@#1234m@2024"} ,
+           
+"onlyNumber":{"firstName":"12345678" , "lastName":"12345678" ,"email" : "12345678" ,
+           "confirmEmail":"12345678" , "username":"12345678" , 
+           "password" : "12345678" , "confirmPassword" :"12345678"} ,
+       
+"onlySymbol":{"firstName":"@#^%$" , "lastName":"&^%$#@" ,"email" : "&^%$#@" ,
+           "confirmEmail":"&^%$#@" , "username":"!@%$#@" , 
+           "password" : "^%$#@" , "confirmPassword" : "&^%$#@#$"}
+                        
+}
